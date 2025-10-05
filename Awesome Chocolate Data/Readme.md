@@ -2,4 +2,4 @@ See my full dashboard here [My PowerBI Report](https://app.powerbi.com/reportEmb
 )
 
 
-![Portfolio Dashboard](Dashboard Screenshot.png)
+![Portfolio Dashboard](Awesome Chocolate Data/Dashboard Screenshot.png)
